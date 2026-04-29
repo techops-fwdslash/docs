@@ -9,7 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": []
+    "pages": [
+      "intro"
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
